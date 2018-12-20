@@ -49,6 +49,6 @@ int main(void)
 {
 	//CircleArea();
 	// q5_1_1();
-	q5_1_2();
+	//q5_1_2();
 	return 0;
 }
