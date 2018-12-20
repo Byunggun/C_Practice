@@ -1,0 +1,8 @@
+﻿  ch5.c
+c:\workplace_it\c\c_practice\ch5\ch5.c(22): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\workplace_it\c\c_practice\ch5\ch5.c(22): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 4개가 제공되었습니다.
+c:\workplace_it\c\c_practice\ch5\ch5.c(24): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\workplace_it\c\c_practice\ch5\ch5.c(24): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 4개가 제공되었습니다.
+c:\workplace_it\c\c_practice\ch5\ch5.c(36): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\workplace_it\c\c_practice\ch5\ch5.c(36): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 4개가 제공되었습니다.
+  ch5.vcxproj -> C:\WorkPlace_IT\C\C_Practice\Debug\ch5.exe

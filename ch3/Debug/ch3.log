@@ -1,0 +1,28 @@
+﻿  ch3.c
+c:\workplace_it\c\c_practice\c_practice\ch3.c(56): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\workplace_it\c\c_practice\c_practice\ch3.c(56): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+c:\workplace_it\c\c_practice\c_practice\ch3.c(58): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\workplace_it\c\c_practice\c_practice\ch3.c(58): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+c:\workplace_it\c\c_practice\c_practice\ch3.c(76): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\workplace_it\c\c_practice\c_practice\ch3.c(76): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+c:\workplace_it\c\c_practice\c_practice\ch3.c(78): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\workplace_it\c\c_practice\c_practice\ch3.c(78): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+c:\workplace_it\c\c_practice\c_practice\ch3.c(94): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\workplace_it\c\c_practice\c_practice\ch3.c(94): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+c:\workplace_it\c\c_practice\c_practice\ch3.c(96): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\workplace_it\c\c_practice\c_practice\ch3.c(96): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+c:\workplace_it\c\c_practice\c_practice\ch3.c(98): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\workplace_it\c\c_practice\c_practice\ch3.c(98): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+c:\workplace_it\c\c_practice\c_practice\ch3.c(111): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\workplace_it\c\c_practice\c_practice\ch3.c(111): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+c:\workplace_it\c\c_practice\c_practice\ch3.c(138): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\workplace_it\c\c_practice\c_practice\ch3.c(138): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+c:\workplace_it\c\c_practice\c_practice\ch3.c(140): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\workplace_it\c\c_practice\c_practice\ch3.c(140): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+c:\workplace_it\c\c_practice\c_practice\ch3.c(154): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\workplace_it\c\c_practice\c_practice\ch3.c(154): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+c:\workplace_it\c\c_practice\c_practice\ch3.c(156): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\workplace_it\c\c_practice\c_practice\ch3.c(156): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+c:\workplace_it\c\c_practice\c_practice\ch3.c(158): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\workplace_it\c\c_practice\c_practice\ch3.c(158): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+  ch3.vcxproj -> C:\WorkPlace_IT\C\C_Practice\Debug\ch3.exe
